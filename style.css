@@ -1,0 +1,17 @@
+.header{
+    background-color: brown;
+    text-align:center;
+    background-image: url(sh.jpg);
+    background-size: cover;
+}
+.nav{
+    background-color: cornsilk;
+    color: cyan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
